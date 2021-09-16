@@ -1,0 +1,28 @@
+server:
+  port: 7001
+
+eureka:
+  instance:
+    # Eureka服务器实例名称
+    hostname: eureka7001.com
+  client:
+    # 表示不向注册中心注册自己
+    register-with-eureka: false
+    # 不拉取注册列表，表示自己是注册中心
+    fetch-registry: false
+    service-url:
+      # Eureka Client 与 Eureka Server 交互的地址
+      defaultZone: http://eureka7002.com:7002/eureka/
+  server:
+    # 关闭自我保护
+    enable-self-preservation: false
+    # 发送心跳间隔时间
+    eviction-interval-timer-in-ms: 2000
+spring:
+  devtools:
+    livereload:
+      port: 35731
+  cloud:
+    loadbalancer:
+      ribbon:
+        enabled: false
