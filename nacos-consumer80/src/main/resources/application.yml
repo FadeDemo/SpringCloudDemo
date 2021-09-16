@@ -1,0 +1,20 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: consumer-service
+  devtools:
+    livereload:
+      port: 35752
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    sentinel:
+      transport:
+        dashboard: localhost:8849
+        port: 8719
+
+service-url:
+  nacos-user-service: http://provider-payment-service
