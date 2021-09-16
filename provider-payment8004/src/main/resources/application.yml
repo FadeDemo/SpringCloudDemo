@@ -1,0 +1,12 @@
+server:
+  port: 8004
+
+spring:
+  application:
+    name: provider-payment-service
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+  devtools:
+    livereload:
+      port: 35732
