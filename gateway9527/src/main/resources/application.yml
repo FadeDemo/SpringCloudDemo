@@ -1,0 +1,46 @@
+server:
+  port: 9527
+#  error:
+#    whitelabel:
+#      enabled: false
+
+spring:
+  application:
+    name: gateway-service
+  devtools:
+    livereload:
+      port: 35742
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          # 开启从注册中心动态创建路由的功能，如果只是通过服务名访问，可不开启
+          enabled: false
+      routes:
+        # 路由的id，没有固定规则，但要求唯一
+        - id: payment_get
+          # uri: http://localhost:8001
+          uri: lb://payment-service
+          predicates:
+            - Path=/payment/get/**
+            # - After=2021-08-22T21:25:13.198+08:00[Asia/Shanghai]
+            # - Cookie=username,fade
+            # 要有键为X-Request-Id，值为整数的header
+            # - Header=X-Request-Id, \d+
+            - Method=GET
+          filters:
+            - AddRequestParameter=red, blue
+        - id: payment_discovery
+          # uri: http://localhost:8001
+          uri: lb://payment-service
+          predicates:
+            - Path=/payment/discovery/**
+
+eureka:
+  instance:
+    hostname: gateway-service
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
