@@ -1,0 +1,24 @@
+server:
+  port: 8401
+
+spring:
+  application:
+    name: sentinel-service8401
+  devtools:
+    livereload:
+      port: 35754
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    sentinel:
+      transport:
+        dashboard: localhost:8849
+        port: 8719
+#      web-context-unify: false
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
