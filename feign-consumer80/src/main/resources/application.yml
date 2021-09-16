@@ -1,0 +1,23 @@
+server:
+  port: 80
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka
+
+spring:
+  devtools:
+    livereload:
+      port: 35736
+
+ribbon:
+  # 读取资源超时时间
+  ReadTimeout: 5000
+  # 连接建立超时时间
+  ConnectionTimeout: 5000
+
+logging:
+  level:
+    org.fade.springclouddemo.service.FeignPaymentService: debug
