@@ -1,0 +1,26 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: hystrix-consumer-service
+  devtools:
+    livereload:
+      port: 35740
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
+
+ribbon:
+  # 读取资源超时时间
+  ReadTimeout: 5000
+  # 连接建立超时时间
+  ConnectionTimeout: 5000
+
+feign:
+  hystrix:
+    enabled: true
