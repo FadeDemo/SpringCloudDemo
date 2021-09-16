@@ -1,0 +1,47 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: config-service
+  devtools:
+    livereload:
+      port: 35743
+  cloud:
+    config:
+      server:
+        git:
+          uri: your-own-url
+          search-paths:
+            - SpringCloudDemoConfig
+          ignore-local-ssh-settings: true
+          private-key: |
+                        your-own-private-key
+#          username: your-own-username
+#          password: your-own-password
+#          proxy:
+#            https:
+#              host: localhost
+#              port: 7890
+#          skip-ssl-validation: true
+          basedir: D:/GitHub/SpringCloudDemoConfig
+#          force-pull: true
+      label: main
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "bus-refresh"
