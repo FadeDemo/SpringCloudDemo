@@ -154,10 +154,12 @@
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-clean-plugin</artifactId>
           <version>3.1.0</version>
         </plugin>
         <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-site-plugin</artifactId>
           <version>3.7.1</version>
         </plugin>
@@ -174,6 +176,7 @@
         <configuration>
           <locales>en,fr</locales>
         </configuration>
+        <version>3.7.1</version>
       </plugin>
       <plugin>
         <groupId>org.springframework.boot</groupId>
@@ -182,6 +185,7 @@
           <fork>true</fork>
           <addResources>true</addResources>
         </configuration>
+        <version>2.3.2.RELEASE</version>
       </plugin>
     </plugins>
   </build>
