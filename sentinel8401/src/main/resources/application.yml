@@ -15,6 +15,14 @@ spring:
       transport:
         dashboard: localhost:8849
         port: 8719
+      datasource:
+        ds1:
+          nacos:
+            server-addr: localhost:8848
+            dataId: sentinel-service8401
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
 #      web-context-unify: false
 
 management:
