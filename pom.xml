@@ -34,6 +34,9 @@
     <module>nacos-consumer80</module>
       <module>nacos-config3377</module>
       <module>sentinel8401</module>
+      <module>seata-order2001</module>
+    <module>seata-storage2002</module>
+    <module>seata-account2003</module>
   </modules>
   <packaging>pom</packaging>
 
