@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project version="4">
+    <component name="XDebuggerManager">
+        <breakpoint-manager>
+            <breakpoints>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>95</line>
+                    <option name="timeStamp" value="1" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>116</line>
+                    <option name="timeStamp" value="3" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>151</line>
+                    <option name="timeStamp" value="4" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>222</line>
+                    <option name="timeStamp" value="5" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>240</line>
+                    <option name="timeStamp" value="6" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>261</line>
+                    <option name="timeStamp" value="7" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>266</line>
+                    <option name="timeStamp" value="8" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>279</line>
+                    <option name="timeStamp" value="9" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/BootstrapApplicationListener.java</url>
+                    <line>285</line>
+                    <option name="timeStamp" value="11" />
+                </line-breakpoint>
+            </breakpoints>
+        </breakpoint-manager>
+    </component>
+</project>

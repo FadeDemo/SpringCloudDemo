@@ -14,7 +14,7 @@ spring:
 #        group: DEV_GROUP
 #        group: TEST_GROUP
 #        namespace: fe4cc828-3557-4e22-9f0f-d24cfc913370
-        namespace: 5ad35afa-dab8-4b50-b02c-0a81d20e2037
+        namespace: spring-cloud-demo
   devtools:
     livereload:
       port: 35753
