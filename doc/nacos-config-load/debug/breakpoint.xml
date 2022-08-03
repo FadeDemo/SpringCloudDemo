@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project version="4">
+    <component name="XDebuggerManager">
+        <breakpoint-manager>
+            <breakpoints>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.2.RELEASE/spring-boot-2.3.2.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+                    <line>313</line>
+                    <option name="timeStamp" value="19" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.2.RELEASE/spring-boot-2.3.2.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+                    <line>369</line>
+                    <option name="timeStamp" value="20" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.2.RELEASE/spring-boot-2.3.2.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+                    <line>625</line>
+                    <option name="timeStamp" value="21" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java</url>
+                    <line>92</line>
+                    <option name="timeStamp" value="22" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java</url>
+                    <line>97</line>
+                    <option name="timeStamp" value="24" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceLocator.java</url>
+                    <line>46</line>
+                    <option name="timeStamp" value="25" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceLocator.java</url>
+                    <line>51</line>
+                    <option name="timeStamp" value="26" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>76</line>
+                    <option name="timeStamp" value="27" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>100</line>
+                    <option name="timeStamp" value="28" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>101</line>
+                    <option name="timeStamp" value="29" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>102</line>
+                    <option name="timeStamp" value="30" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>111</line>
+                    <option name="timeStamp" value="31" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>115</line>
+                    <option name="timeStamp" value="32" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>157</line>
+                    <option name="timeStamp" value="34" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>179</line>
+                    <option name="timeStamp" value="35" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>185</line>
+                    <option name="timeStamp" value="36" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>198</line>
+                    <option name="timeStamp" value="37" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java</url>
+                    <line>72</line>
+                    <option name="timeStamp" value="38" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java</url>
+                    <line>84</line>
+                    <option name="timeStamp" value="39" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/NacosConfigService.java</url>
+                    <line>99</line>
+                    <option name="timeStamp" value="40" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/NacosConfigService.java</url>
+                    <line>136</line>
+                    <option name="timeStamp" value="41" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>199</line>
+                    <option name="timeStamp" value="42" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/http/ServerHttpAgent.java</url>
+                    <line>85</line>
+                    <option name="timeStamp" value="43" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ServerListManager.java</url>
+                    <line>413</line>
+                    <option name="timeStamp" value="44" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/utils/ParamUtil.java</url>
+                    <line>73</line>
+                    <option name="timeStamp" value="45" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/http/ServerHttpAgent.java</url>
+                    <line>97</line>
+                    <option name="timeStamp" value="46" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/http/ServerHttpAgent.java</url>
+                    <line>104</line>
+                    <option name="timeStamp" value="47" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/http/ServerHttpAgent.java</url>
+                    <line>119</line>
+                    <option name="timeStamp" value="48" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceLocator.java</url>
+                    <line>127</line>
+                    <option name="timeStamp" value="49" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/NacosConfigService.java</url>
+                    <line>159</line>
+                    <option name="timeStamp" value="50" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/parser/NacosDataParserHandler.java</url>
+                    <line>67</line>
+                    <option name="timeStamp" value="51" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java</url>
+                    <line>96</line>
+                    <option name="timeStamp" value="52" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/parser/NacosDataParserHandler.java</url>
+                    <line>90</line>
+                    <option name="timeStamp" value="54" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/parser/AbstractPropertySourceLoader.java</url>
+                    <line>80</line>
+                    <option name="timeStamp" value="55" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/parser/NacosXmlPropertySourceLoader.java</url>
+                    <line>89</line>
+                    <option name="timeStamp" value="56" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/client/NacosPropertySourceBuilder.java</url>
+                    <line>76</line>
+                    <option name="timeStamp" value="57" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/NacosPropertySourceRepository.java</url>
+                    <line>67</line>
+                    <option name="timeStamp" value="58" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>210</line>
+                    <option name="timeStamp" value="59" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/NacosConfigService.java</url>
+                    <line>177</line>
+                    <option name="timeStamp" value="60" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java</url>
+                    <line>121</line>
+                    <option name="timeStamp" value="62" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java</url>
+                    <line>124</line>
+                    <option name="timeStamp" value="63" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java</url>
+                    <line>186</line>
+                    <option name="timeStamp" value="64" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java</url>
+                    <line>170</line>
+                    <option name="timeStamp" value="65" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/2.2.6.RELEASE/spring-cloud-context-2.2.6.RELEASE-sources.jar!/org/springframework/cloud/bootstrap/config/PropertySourceBootstrapConfiguration.java</url>
+                    <line>181</line>
+                    <option name="timeStamp" value="67" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/refresh/NacosContextRefresher.java</url>
+                    <line>97</line>
+                    <option name="timeStamp" value="68" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/refresh/NacosContextRefresher.java</url>
+                    <line>110</line>
+                    <option name="timeStamp" value="69" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/refresh/NacosContextRefresher.java</url>
+                    <line>117</line>
+                    <option name="timeStamp" value="70" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/refresh/NacosContextRefresher.java</url>
+                    <line>123</line>
+                    <option name="timeStamp" value="71" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/refresh/NacosContextRefresher.java</url>
+                    <line>142</line>
+                    <option name="timeStamp" value="72" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/NacosConfigService.java</url>
+                    <line>112</line>
+                    <option name="timeStamp" value="73" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>83</line>
+                    <option name="timeStamp" value="74" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>145</line>
+                    <option name="timeStamp" value="75" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>156</line>
+                    <option name="timeStamp" value="76" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>475</line>
+                    <option name="timeStamp" value="77" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>306</line>
+                    <option name="timeStamp" value="78" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>312</line>
+                    <option name="timeStamp" value="79" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>515</line>
+                    <option name="timeStamp" value="80" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>534</line>
+                    <option name="timeStamp" value="81" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>327</line>
+                    <option name="timeStamp" value="82" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>346</line>
+                    <option name="timeStamp" value="83" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>359</line>
+                    <option name="timeStamp" value="84" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>548</line>
+                    <option name="timeStamp" value="85" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/ClientWorker.java</url>
+                    <line>568</line>
+                    <option name="timeStamp" value="86" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/CacheData.java</url>
+                    <line>179</line>
+                    <option name="timeStamp" value="87" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/nacos/nacos-client/1.4.2/nacos-client-1.4.2-sources.jar!/com/alibaba/nacos/client/config/impl/CacheData.java</url>
+                    <line>209</line>
+                    <option name="timeStamp" value="88" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/refresh/NacosContextRefresher.java</url>
+                    <line>130</line>
+                    <option name="timeStamp" value="89" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.2.6.RELEASE/spring-cloud-starter-alibaba-nacos-config-2.2.6.RELEASE-sources.jar!/com/alibaba/cloud/nacos/refresh/NacosContextRefresher.java</url>
+                    <line>132</line>
+                    <option name="timeStamp" value="90" />
+                </line-breakpoint>
+            </breakpoints>
+        </breakpoint-manager>
+    </component>
+</project>
