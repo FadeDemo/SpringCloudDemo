@@ -338,6 +338,11 @@
                     <line>132</line>
                     <option name="timeStamp" value="90" />
                 </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>file://$PROJECT_DIR$/nacos-config3377/src/main/java/org/fade/springclouddemo/controller/ConfigController.java</url>
+                    <line>13</line>
+                    <option name="timeStamp" value="91" />
+                </line-breakpoint>
             </breakpoints>
         </breakpoint-manager>
     </component>

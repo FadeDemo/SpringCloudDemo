@@ -10,6 +10,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RefreshScope
 public class ConfigController {
 
+    public ConfigController() {
+        System.out.println("constructor....");
+    }
+
     @Value("${config.info}")
     private String configInfo;
 
