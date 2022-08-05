@@ -1,0 +1,20 @@
+<!--<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">-->
+<configuration>
+    <transList>
+        <trans>
+            <trans-code>PM</trans-code>
+            <trans-name>单笔付款</trans-name>
+            <md5Key>123456</md5Key>
+            <trans-class-name>SingleService</trans-class-name>
+            <need-check-md5>false</need-check-md5>
+            <test>false</test>
+        </trans>
+        <trans>
+            <trans-code>FPSQ01</trans-code>
+            <trans-name>明细同步</trans-name>
+            <md5Key>123456</md5Key>
+            <trans-class-name>DetailService</trans-class-name>
+            <need-check-md5>false</need-check-md5>
+        </trans>
+    </transList>
+</configuration>

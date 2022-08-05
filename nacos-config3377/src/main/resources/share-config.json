@@ -1,0 +1,25 @@
+{
+  "configuration": {
+    "transList": [
+      {
+        "trans": {
+          "transCode": "PM",
+          "transName": "单笔付款",
+          "md5Key": "123456",
+          "transClassName": "SingleService",
+          "needCheckMD5": false,
+          "test": false
+        }
+      },
+      {
+        "trans": {
+          "transCode": "FPSQ01",
+          "transName": "明细同步",
+          "md5Key": "123456",
+          "transClassName": "DetailService",
+          "needCheckMD5": false
+        }
+      }
+    ]
+  }
+}

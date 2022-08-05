@@ -17,6 +17,9 @@ spring:
         namespace: spring-cloud-demo
         shared-configs:
           - share-config.yaml
+          - data-id: share-config.xml
+            refresh: true
+#          - share-config.json
   devtools:
     livereload:
       port: 35753
